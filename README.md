@@ -1,8 +1,9 @@
 # Paraíso (light) for Atom
 
 [![Version](https://img.shields.io/apm/v/paraiso-light.svg?style=flat-square)](https://atom.io/themes/paraiso-light)
-[![Travis branch](https://img.shields.io/travis/idleberg/atom-paraiso-light/master.svg?style=flat-square)](https://travis-ci.org/idleberg/atom-paraiso-light)
+[![apm](https://img.shields.io/apm/dm/paraiso-light.svg?style=flat-square)](https://atom.io/packages/paraiso-light)
 [![License](https://img.shields.io/apm/l/paraiso-light.svg?style=flat-square)](http://creativecommons.org/licenses/by-sa/4.0/deed.en_US)
+[![Travis branch](https://img.shields.io/travis/idleberg/atom-paraiso-light/master.svg?style=flat-square)](https://travis-ci.org/idleberg/atom-paraiso-light)
 
 A color scheme inspired by the colorful illustrations by Brazilian artist [Rubens LP](http://www.rubenslp.com.br/).
 
